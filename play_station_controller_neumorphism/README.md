@@ -1,6 +1,7 @@
 # play_station_controller_neumorphism
 
 A new Flutter project with Neumorphism
+![Screenshot](screenshot_of_app.png)
 
 ## Getting Started
 
